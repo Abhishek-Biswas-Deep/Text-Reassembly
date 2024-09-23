@@ -1,0 +1,19 @@
+2
+list 0 new
+list 1 new
+list 0 build 5 alpha beta gamma delta epsilon
+list 1 build 5 gamma delta epsilon alpha beta 
+list 0 overlap 1
+list 0 splice 1
+list 1 print
+list 0 destroy
+list 1 destroy
+list 0 new
+list 1 new
+list 0 build 5 alpha beta gamma delta epsilon
+list 1 build 5 gamma delta epsilon alpha beta 
+list 1 overlap 0
+list 1 splice 0
+list 0 print
+end
+

@@ -1,0 +1,10 @@
+List 0: new list
+ [ ] (0 items)
+List 1: new list
+ [ ] (0 items)
+List 0: build
+ [ alpha beta gamma delta epsilon ] (5 items)
+List 1: build
+ [ beta gamma delta ] (3 items)
+List 0: Overlap between lists 0 and 1 is 3
+List 1: Overlap between lists 1 and 0 is 0

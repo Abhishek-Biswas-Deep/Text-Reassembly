@@ -1,0 +1,10 @@
+2
+list 0 new
+list 1 new
+list 0 build 5 ali ben gem dan eve
+list 1 build 5 gem dan eve ali ben 
+list 0 overlap 1
+list 0 splice 1
+list 1 print
+end
+

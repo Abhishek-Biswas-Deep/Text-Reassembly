@@ -1,0 +1,13 @@
+List 0: new list
+ [ ] (0 items)
+List 1: new list
+ [ ] (0 items)
+List 0: build
+ [ ali ben gem dan eve ] (5 items)
+List 1: build
+ [ gem dan eve ali ben ] (5 items)
+List 0: Overlap between lists 0 and 1 is 3
+List 0: List 1 spliced to the end of list 0
+ [ ali ben gem dan eve ali ben ] (7 items)
+List 1: print
+ [ gem dan eve ] (3 items)
