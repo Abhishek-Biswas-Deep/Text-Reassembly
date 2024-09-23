@@ -2,7 +2,7 @@
 <h1>Associated with Dalhousie University</h1>
 
 ### CSCI2122
-### Text-Reassembly
+### Text Reassembly
 #### Objectives
 
 - Linked list manipulation
